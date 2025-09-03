@@ -14,7 +14,7 @@ df = pd.DataFrame(data)
 
 print(df.head())
 
-print(df.info)
+print(df.info())
 
 # 3. Средняя оценка по каждому предмету
 print("\nСредняя оценка по каждому предмету:")
